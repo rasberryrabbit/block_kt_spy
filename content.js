@@ -35,10 +35,12 @@ var elements = document.getElementsByTagName('iframe');
 for (var i = 0; i < elements.length; i++) {
     var element = elements[i];
     var text=element.getAttribute("src");
-    var replacedText = text.replace(ipregex, document.URL);
-    
-    if (replacedText !== text) {
-      element.setAttribute("src",replacedText);
-      console.log(element);
+    if(text!=null) {
+        var replacedText = text.replace(ipregex, document.URL);
+        
+        if (replacedText !== text) {
+          element.setAttribute("src",replacedText);
+          console.log(element);
+        }
     }
 }
