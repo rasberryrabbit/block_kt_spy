@@ -1,1 +1,1 @@
-Anti KT Spy. Change string values on your region monitoring IP at replace function.
+Anti KT Spy. Change IP values on your region monitoring IP at Option.
