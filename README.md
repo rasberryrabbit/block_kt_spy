@@ -1,1 +1,1 @@
-Anti KT Spy. Change IP values on your region monitoring IP at Option.
+Anti KT Spy Chrome extension. Change IP values on your region monitoring IP at Option.
