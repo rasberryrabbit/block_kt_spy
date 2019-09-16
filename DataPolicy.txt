@@ -1,0 +1,2 @@
+block KT Spy extension doesn't require user data or user activities.
+block KT Spy 익스텐션은 사용자 데이터나 활동을 필요로 하지 않습니다.
