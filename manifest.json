@@ -1,11 +1,10 @@
 {
-"manifest_version": 2,
+"manifest_version": 3,
     "name": "block KT Spy",
     "description": "block KT spy",
     "version": "0.3.6",
     "background": {
-        "scripts": ["redirect.js"],
-        "persistent": false
+        "service_worker": "redirect.js"
     },
     "content_scripts": [
         {
